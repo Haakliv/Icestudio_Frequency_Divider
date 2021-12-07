@@ -16,8 +16,7 @@
           "type": "basic.input",
           "data": {
             "name": "B0",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -29,8 +28,7 @@
           "type": "basic.input",
           "data": {
             "name": "A0",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -42,8 +40,7 @@
           "type": "basic.input",
           "data": {
             "name": "B1",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -55,8 +52,7 @@
           "type": "basic.input",
           "data": {
             "name": "A1",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -68,8 +64,7 @@
           "type": "basic.input",
           "data": {
             "name": "B2",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -81,8 +76,7 @@
           "type": "basic.input",
           "data": {
             "name": "A2",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -94,8 +88,7 @@
           "type": "basic.input",
           "data": {
             "name": "B3",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -107,8 +100,7 @@
           "type": "basic.input",
           "data": {
             "name": "A3",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -120,8 +112,7 @@
           "type": "basic.input",
           "data": {
             "name": "B4",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -133,8 +124,7 @@
           "type": "basic.input",
           "data": {
             "name": "A4",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -146,8 +136,7 @@
           "type": "basic.input",
           "data": {
             "name": "B5",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -159,8 +148,7 @@
           "type": "basic.input",
           "data": {
             "name": "A5",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -172,8 +160,7 @@
           "type": "basic.input",
           "data": {
             "name": "B6",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -185,8 +172,7 @@
           "type": "basic.input",
           "data": {
             "name": "A6",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -198,8 +184,7 @@
           "type": "basic.input",
           "data": {
             "name": "B7",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -211,8 +196,7 @@
           "type": "basic.input",
           "data": {
             "name": "A7",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -224,8 +208,7 @@
           "type": "basic.input",
           "data": {
             "name": "B8",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -237,8 +220,7 @@
           "type": "basic.input",
           "data": {
             "name": "A8",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -250,8 +232,7 @@
           "type": "basic.input",
           "data": {
             "name": "B9",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -263,8 +244,7 @@
           "type": "basic.input",
           "data": {
             "name": "A9",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -276,8 +256,7 @@
           "type": "basic.input",
           "data": {
             "name": "B10",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -289,8 +268,7 @@
           "type": "basic.input",
           "data": {
             "name": "A10",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -302,8 +280,7 @@
           "type": "basic.input",
           "data": {
             "name": "B11",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -314,8 +291,7 @@
           "id": "aaa2255b-ac81-4348-9fa4-f882baab986a",
           "type": "basic.output",
           "data": {
-            "name": "EQ",
-            "virtual": true
+            "name": "EQ"
           },
           "position": {
             "x": 2184,
@@ -327,8 +303,7 @@
           "type": "basic.input",
           "data": {
             "name": "A11",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -340,8 +315,7 @@
           "type": "basic.input",
           "data": {
             "name": "B12",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -353,8 +327,7 @@
           "type": "basic.input",
           "data": {
             "name": "A12",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -366,8 +339,7 @@
           "type": "basic.input",
           "data": {
             "name": "B13",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -379,8 +351,7 @@
           "type": "basic.input",
           "data": {
             "name": "A13",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -392,8 +363,7 @@
           "type": "basic.input",
           "data": {
             "name": "B14",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -405,8 +375,7 @@
           "type": "basic.input",
           "data": {
             "name": "A14",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -418,8 +387,7 @@
           "type": "basic.input",
           "data": {
             "name": "B15",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -431,8 +399,7 @@
           "type": "basic.input",
           "data": {
             "name": "A15",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -444,8 +411,7 @@
           "type": "basic.input",
           "data": {
             "name": "B16",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -457,8 +423,7 @@
           "type": "basic.input",
           "data": {
             "name": "A16",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -470,8 +435,7 @@
           "type": "basic.input",
           "data": {
             "name": "B17",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -483,8 +447,7 @@
           "type": "basic.input",
           "data": {
             "name": "A17",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -496,8 +459,7 @@
           "type": "basic.input",
           "data": {
             "name": "B18",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -509,8 +471,7 @@
           "type": "basic.input",
           "data": {
             "name": "A18",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -522,8 +483,7 @@
           "type": "basic.input",
           "data": {
             "name": "B19",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -535,8 +495,7 @@
           "type": "basic.input",
           "data": {
             "name": "A19",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -548,8 +507,7 @@
           "type": "basic.input",
           "data": {
             "name": "B20",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -561,8 +519,7 @@
           "type": "basic.input",
           "data": {
             "name": "A20",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -574,8 +531,7 @@
           "type": "basic.input",
           "data": {
             "name": "B21",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -587,8 +543,7 @@
           "type": "basic.input",
           "data": {
             "name": "A21",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -600,8 +555,7 @@
           "type": "basic.input",
           "data": {
             "name": "B22",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -613,8 +567,7 @@
           "type": "basic.input",
           "data": {
             "name": "A22",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -626,8 +579,7 @@
           "type": "basic.input",
           "data": {
             "name": "B23",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
@@ -639,12 +591,35 @@
           "type": "basic.input",
           "data": {
             "name": "A23",
-            "clock": false,
-            "virtual": true
+            "clock": false
           },
           "position": {
             "x": 888,
             "y": 3424
+          }
+        },
+        {
+          "id": "5b5aa0f9-e83e-438b-8f89-d33f5dba230c",
+          "type": "basic.input",
+          "data": {
+            "name": "B23",
+            "clock": false
+          },
+          "position": {
+            "x": 888,
+            "y": 3480
+          }
+        },
+        {
+          "id": "04efb993-cdfc-4e09-a08c-652e102af87e",
+          "type": "basic.input",
+          "data": {
+            "name": "A23",
+            "clock": false
+          },
+          "position": {
+            "x": 888,
+            "y": 3536
           }
         },
         {
@@ -936,10 +911,22 @@
           }
         },
         {
+          "id": "4e82b062-0ba2-40f0-b199-3f020aaecf4b",
+          "type": "2ccf5e8dbf104bca161c07c5ba5f07a2dc14cbfb",
+          "position": {
+            "x": 1056,
+            "y": 3504
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
           "id": "a10e2172-e67d-429e-b6d5-5603ce76e873",
           "type": "basic.code",
           "data": {
-            "code": "// AND logic gate\n\nassign y = a & b & c & d & e & f & g & h & i & j & k & l & m & n & o & p & q & r & s & t & u & v & x;",
+            "code": "// AND logic gate\n\nassign y = a & b & c & d & e & f & g & h & i & j & k & l & m & n & o & p & q & r & s & t & u & v & w & x & y;",
             "params": [],
             "ports": {
               "in": [
@@ -1014,11 +1001,14 @@
                 },
                 {
                   "name": "x"
+                },
+                {
+                  "name": "y"
                 }
               ],
               "out": [
                 {
-                  "name": "y"
+                  "name": "z"
                 }
               ]
             }
@@ -1029,7 +1019,7 @@
           },
           "size": {
             "width": 536,
-            "height": 584
+            "height": 608
           }
         }
       ],
@@ -1758,7 +1748,7 @@
           },
           "vertices": [
             {
-              "x": 1288,
+              "x": 1264,
               "y": 2120
             }
           ]
@@ -1774,8 +1764,8 @@
           },
           "vertices": [
             {
-              "x": 1312,
-              "y": 2144
+              "x": 1288,
+              "y": 2152
             }
           ]
         },
@@ -1790,7 +1780,7 @@
           },
           "vertices": [
             {
-              "x": 1336,
+              "x": 1312,
               "y": 2200
             }
           ]
@@ -1806,7 +1796,7 @@
           },
           "vertices": [
             {
-              "x": 1360,
+              "x": 1336,
               "y": 2256
             }
           ]
@@ -1822,7 +1812,7 @@
           },
           "vertices": [
             {
-              "x": 1384,
+              "x": 1360,
               "y": 2384
             }
           ]
@@ -1838,7 +1828,7 @@
           },
           "vertices": [
             {
-              "x": 1408,
+              "x": 1384,
               "y": 2496
             }
           ]
@@ -1854,8 +1844,8 @@
           },
           "vertices": [
             {
-              "x": 1432,
-              "y": 2624
+              "x": 1408,
+              "y": 2632
             }
           ]
         },
@@ -1870,7 +1860,7 @@
           },
           "vertices": [
             {
-              "x": 1456,
+              "x": 1432,
               "y": 2640
             }
           ]
@@ -1886,7 +1876,7 @@
           },
           "vertices": [
             {
-              "x": 1480,
+              "x": 1456,
               "y": 2752
             }
           ]
@@ -1902,7 +1892,7 @@
           },
           "vertices": [
             {
-              "x": 1504,
+              "x": 1480,
               "y": 2808
             }
           ]
@@ -1918,8 +1908,8 @@
           },
           "vertices": [
             {
-              "x": 1528,
-              "y": 2496
+              "x": 1504,
+              "y": 2504
             }
           ]
         },
@@ -1931,17 +1921,61 @@
           "target": {
             "block": "a10e2172-e67d-429e-b6d5-5603ce76e873",
             "port": "x"
-          }
+          },
+          "vertices": [
+            {
+              "x": 1528,
+              "y": 2552
+            }
+          ]
+        },
+        {
+          "source": {
+            "block": "04efb993-cdfc-4e09-a08c-652e102af87e",
+            "port": "out"
+          },
+          "target": {
+            "block": "4e82b062-0ba2-40f0-b199-3f020aaecf4b",
+            "port": "97b51945-d716-4b6c-9db9-970d08541249"
+          },
+          "vertices": []
+        },
+        {
+          "source": {
+            "block": "5b5aa0f9-e83e-438b-8f89-d33f5dba230c",
+            "port": "out"
+          },
+          "target": {
+            "block": "4e82b062-0ba2-40f0-b199-3f020aaecf4b",
+            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
+          },
+          "vertices": []
         },
         {
           "source": {
             "block": "a10e2172-e67d-429e-b6d5-5603ce76e873",
-            "port": "y"
+            "port": "z"
           },
           "target": {
             "block": "aaa2255b-ac81-4348-9fa4-f882baab986a",
             "port": "in"
           }
+        },
+        {
+          "source": {
+            "block": "4e82b062-0ba2-40f0-b199-3f020aaecf4b",
+            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+          },
+          "target": {
+            "block": "a10e2172-e67d-429e-b6d5-5603ce76e873",
+            "port": "y"
+          },
+          "vertices": [
+            {
+              "x": 1552,
+              "y": 2576
+            }
+          ]
         }
       ]
     }

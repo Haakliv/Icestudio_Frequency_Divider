@@ -147,7 +147,8 @@
           "id": "ac3e02ab-cff2-4f3e-b839-5fe56c2667b3",
           "type": "basic.output",
           "data": {
-            "name": "Q23"
+            "name": "Q24",
+            "virtual": false
           },
           "position": {
             "x": 6872,

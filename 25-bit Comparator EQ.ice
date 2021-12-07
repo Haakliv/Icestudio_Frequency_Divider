@@ -295,7 +295,7 @@
           },
           "position": {
             "x": 2184,
-            "y": 2064
+            "y": 2072
           }
         },
         {
@@ -602,8 +602,9 @@
           "id": "5b5aa0f9-e83e-438b-8f89-d33f5dba230c",
           "type": "basic.input",
           "data": {
-            "name": "B23",
-            "clock": false
+            "name": "B24",
+            "clock": false,
+            "virtual": false
           },
           "position": {
             "x": 888,
@@ -614,8 +615,9 @@
           "id": "04efb993-cdfc-4e09-a08c-652e102af87e",
           "type": "basic.input",
           "data": {
-            "name": "A23",
-            "clock": false
+            "name": "A24",
+            "clock": false,
+            "virtual": false
           },
           "position": {
             "x": 888,

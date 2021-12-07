@@ -1482,12 +1482,8 @@
           },
           "vertices": [
             {
-              "x": 2016,
-              "y": 1096
-            },
-            {
-              "x": 1944,
-              "y": 2176
+              "x": 2072,
+              "y": 2904
             }
           ]
         },
@@ -1712,6 +1708,10 @@
             {
               "x": 1104,
               "y": 3120
+            },
+            {
+              "x": 1128,
+              "y": 3840
             }
           ]
         },
@@ -2107,8 +2107,8 @@
           },
           "vertices": [
             {
-              "x": 680,
-              "y": 3976
+              "x": 720,
+              "y": 3936
             }
           ]
         },
@@ -7288,7 +7288,7 @@
               },
               "position": {
                 "x": 2184,
-                "y": 2064
+                "y": 2072
               }
             },
             {
@@ -7595,8 +7595,9 @@
               "id": "5b5aa0f9-e83e-438b-8f89-d33f5dba230c",
               "type": "basic.input",
               "data": {
-                "name": "B23",
-                "clock": false
+                "name": "B24",
+                "clock": false,
+                "virtual": false
               },
               "position": {
                 "x": 888,
@@ -7607,8 +7608,9 @@
               "id": "04efb993-cdfc-4e09-a08c-652e102af87e",
               "type": "basic.input",
               "data": {
-                "name": "A23",
-                "clock": false
+                "name": "A24",
+                "clock": false,
+                "virtual": false
               },
               "position": {
                 "x": 888,
@@ -9121,7 +9123,8 @@
               "id": "ac3e02ab-cff2-4f3e-b839-5fe56c2667b3",
               "type": "basic.output",
               "data": {
-                "name": "Q23"
+                "name": "Q24",
+                "virtual": false
               },
               "position": {
                 "x": 6872,

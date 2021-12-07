@@ -928,7 +928,7 @@
           "id": "a10e2172-e67d-429e-b6d5-5603ce76e873",
           "type": "basic.code",
           "data": {
-            "code": "// AND logic gate\n\nassign y = a & b & c & d & e & f & g & h & i & j & k & l & m & n & o & p & q & r & s & t & u & v & w & x & y;",
+            "code": "// AND logic gate\n\nassign z = a & b & c & d & e & f & g & h & i & j & k & l & m & n & o & p & q & r & s & t & u & v & w & x & y;",
             "params": [],
             "ports": {
               "in": [

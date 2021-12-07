@@ -1,2 +1,2 @@
 # Icestudio_Frekvensdeler
-TTT4265
+Frekvensdeler laget i IceStudio for TTT4265 Arbeid2 Høst 2021.
